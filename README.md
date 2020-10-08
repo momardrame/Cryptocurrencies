@@ -1,4 +1,4 @@
-<img src="Resources/cryptocurrency-pic.jpg" alt="drawing" width="200"/>
+<img src="Resources/cryptocurrency-pic.jpg" alt="drawing" width="300"/>
 
 # Cryptocurrencies
 # **Business Objective**
