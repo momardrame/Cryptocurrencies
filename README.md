@@ -1,4 +1,4 @@
-![header_pic](Resources/cryptocurrency-pic.jpg =200x100)
+![header_pic](Resources/cryptocurrency-pic.jpg = 200x100)
 
 # Cryptocurrencies
 # **Business Objective**
