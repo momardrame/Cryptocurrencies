@@ -1,4 +1,4 @@
-![header_pic](Resources/cryptocurrency-pic.jpg)
+<img src="Resources/cryptocurrency-pic.jpg" alt="drawing" width="200"/>
 
 # Cryptocurrencies
 # **Business Objective**
