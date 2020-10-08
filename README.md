@@ -1,5 +1,5 @@
 <img src="Resources/cryptocurrency-pic.jpg" alt="drawing" width="300"/>
-
+ 
 # Cryptocurrencies
 # **Business Objective**
 A prominent investment bank is interested in offering a new cryptocurrencies investment portfolio for its customers. The company, however, is lost in the immense universe of cryptocurrencies and asked for a report of what cryptocurrencies are on the trading market and how cryptocurrencies could be grouped toward creating a classification for developing this new investment product.
