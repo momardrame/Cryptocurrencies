@@ -1,11 +1,11 @@
 <img src="Resources/cryptocurrency-pic.jpg" alt="drawing" width="300"/>
  
 # Cryptocurrencies
-# **Business Objective**
+## **Business Objective**
 A prominent investment bank is interested in offering a new cryptocurrencies investment portfolio for its customers. The company, however, is lost in the immense universe of cryptocurrencies and asked for a report of what cryptocurrencies are on the trading market and how cryptocurrencies could be grouped toward creating a classification for developing this new investment product.
 
 The data is not ideal, so it will be processed to fit the machine learning models using **Unsupervised Learning**. To group the cryptocurrencies, a clustering algorithm will be used to help determine about investing in this product. **Data visualization** will be used to share the findings with the board.
-# **Abstract**
+## **Abstract**
 - Prepare the data for dimensions reduction with PCA and clustering using K-means.
 - Reduce data dimensions using PCA algorithms from sklearn.
 - Predict clusters using cryptocurrencies data using the K-means algorithm form sklearn.
@@ -16,7 +16,7 @@ The data is not ideal, so it will be processed to fit the machine learning model
 - Clustering Data using K-means Alogrithm
 - crypto_data.csv
 
-# **Unsupervised Machine Learning Review**
+## **Unsupervised Machine Learning Review**
 Unsupervised learning is used in one of the following two ways:
 - 1) Transform the data to create an intuitive representation for analysis 
      or to use in another machine learning model
