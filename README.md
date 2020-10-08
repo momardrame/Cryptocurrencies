@@ -10,7 +10,7 @@ The data is not ideal, so it will be processed to fit the machine learning model
 - Reduce data dimensions using PCA algorithms from sklearn.
 - Predict clusters using cryptocurrencies data using the K-means algorithm form sklearn.
 - Create some plots and data tables to present your results.
-# **Technologies and Resources used:**
+## **Technologies and Resources used:**
 - Jupyter Lab Notebook (mlenv kernals)
 - Scikit-learn, Python machine learning library
 - Clustering Data using K-means Alogrithm
